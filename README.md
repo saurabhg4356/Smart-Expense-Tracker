@@ -1,6 +1,11 @@
 # Smart Expense Tracker
 
+[![CI Test Suite](https://github.com/saurabhg4356/Smart-Expense-Tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/saurabhg4356/Smart-Expense-Tracker/actions/workflows/ci.yml)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 > A production-grade educational Command-Line Interface (CLI) financial management application developed in Python 3.10+, showcasing **Object-Oriented Programming (OOP)**, **Data Structures & Algorithms (DSA)**, **pandas & NumPy Analytics**, and **scikit-learn Machine Learning**.
+
 
 ---
 
