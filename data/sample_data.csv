@@ -1,0 +1,78 @@
+txn_id,txn_date,amount,category,description,txn_type,account
+1,2026-01-01,85000.0,Salary,Monthly Salary Credit from Tech Corp,income,Bank
+2,2026-01-02,15000.0,Salary,Transfer to Wallet for monthly expenses,income,Wallet
+3,2026-01-03,24000.0,Housing,Apartment Rent Payment,expense,Bank
+4,2026-01-04,3200.0,Utilities,BESCOM Electricity Bill,expense,Bank
+5,2026-01-05,1199.0,Utilities,Airtel Fiber Broadband Bill,expense,Wallet
+6,2026-01-06,4500.0,Groceries,DMart Monthly Provisions,expense,Wallet
+7,2026-01-08,650.0,Food,Swiggy Biryani Dinner,expense,Wallet
+8,2026-01-10,450.0,Transport,Uber Cab Ride to Office,expense,Wallet
+9,2026-01-12,799.0,Entertainment,Netflix Monthly Subscription,expense,Wallet
+10,2026-01-15,1200.0,Health,Apollo Pharmacy Medicines,expense,Wallet
+11,2026-01-18,2200.0,Shopping,Myntra Winter Sweatshirt,expense,Wallet
+12,2026-01-22,550.0,Food,Zomato Dinner Order,expense,Wallet
+13,2026-01-25,1500.0,Transport,Petrol Refill HPCL,expense,Wallet
+14,2026-01-28,3200.0,Groceries,Blinkit Weekly Veggies and Milk,expense,Wallet
+15,2026-02-01,85000.0,Salary,Monthly Salary Credit from Tech Corp,income,Bank
+16,2026-02-02,15000.0,Salary,Transfer to Wallet for expenses,income,Wallet
+17,2026-02-03,24000.0,Housing,Apartment Rent Payment,expense,Bank
+18,2026-02-04,2850.0,Utilities,BESCOM Electricity Bill,expense,Bank
+19,2026-02-05,1199.0,Utilities,Airtel Fiber Broadband Bill,expense,Wallet
+20,2026-02-07,4800.0,Groceries,DMart Monthly Provisions,expense,Wallet
+21,2026-02-10,850.0,Food,Dominos Pizza Weekend,expense,Wallet
+22,2026-02-12,500.0,Transport,Metro Card Recharge,expense,Wallet
+23,2026-02-14,2500.0,Food,Valentine Dinner Restaurant,expense,Wallet
+24,2026-02-16,1800.0,Shopping,Amazon Book and Desk Mat,expense,Wallet
+25,2026-02-20,620.0,Food,Swiggy Lunch Bowl,expense,Wallet
+26,2026-02-23,1600.0,Transport,Petrol Refill Indian Oil,expense,Wallet
+27,2026-02-26,2900.0,Groceries,Nature Basket Fruits and Veggies,expense,Wallet
+28,2026-03-01,85000.0,Salary,Monthly Salary Credit from Tech Corp,income,Bank
+29,2026-03-02,15000.0,Salary,Transfer to Wallet for expenses,income,Wallet
+30,2026-03-03,24000.0,Housing,Apartment Rent Payment,expense,Bank
+31,2026-03-05,3400.0,Utilities,BESCOM Electricity Bill,expense,Bank
+32,2026-03-06,1199.0,Utilities,Airtel Fiber Broadband Bill,expense,Wallet
+33,2026-03-08,5100.0,Groceries,DMart Monthly Provisions,expense,Wallet
+34,2026-03-10,750.0,Food,Zomato Pasta Dinner,expense,Wallet
+35,2026-03-14,52000.0,Shopping,Apple MacBook Pro M3 Laptop Purchase,expense,Bank
+36,2026-03-16,480.0,Transport,Uber Auto Commute,expense,Wallet
+37,2026-03-18,1500.0,Health,Dental Consultation and Cleaning,expense,Wallet
+38,2026-03-22,650.0,Food,Starbucks Coffee and Snack,expense,Wallet
+39,2026-03-25,1700.0,Transport,Petrol Refill Shell V-Power,expense,Wallet
+40,2026-03-28,3100.0,Groceries,Blinkit Weekly Grocery,expense,Wallet
+41,2026-04-01,88000.0,Salary,Monthly Salary Credit with Appraisal,income,Bank
+42,2026-04-02,15000.0,Salary,Transfer to Wallet for expenses,income,Wallet
+43,2026-04-03,24000.0,Housing,Apartment Rent Payment,expense,Bank
+44,2026-04-04,3900.0,Utilities,BESCOM Electricity Summer Bill,expense,Bank
+45,2026-04-05,1199.0,Utilities,Airtel Fiber Broadband Bill,expense,Wallet
+46,2026-04-07,5300.0,Groceries,DMart Provisions and Staples,expense,Wallet
+47,2026-04-11,850.0,Food,Swiggy Meal Dinner,expense,Wallet
+48,2026-04-14,500.0,Transport,Metro Card Recharge,expense,Wallet
+49,2026-04-17,18500.0,Entertainment,Lollapalooza VIP Music Festival Pass,expense,Bank
+50,2026-04-20,950.0,Health,Apollo Pharmacy Supplements,expense,Wallet
+51,2026-04-23,2400.0,Shopping,Zara Casual Cotton Shirts,expense,Wallet
+52,2026-04-26,1650.0,Transport,Petrol Refill Indian Oil,expense,Wallet
+53,2026-04-28,3400.0,Groceries,Zepto Quick Grocery,expense,Wallet
+54,2026-05-01,88000.0,Salary,Monthly Salary Credit from Tech Corp,income,Bank
+55,2026-05-02,15000.0,Salary,Transfer to Wallet for expenses,income,Wallet
+56,2026-05-03,24000.0,Housing,Apartment Rent Payment,expense,Bank
+57,2026-05-04,4200.0,Utilities,BESCOM Electricity AC Usage,expense,Bank
+58,2026-05-05,1199.0,Utilities,Airtel Fiber Broadband Bill,expense,Wallet
+59,2026-05-08,5400.0,Groceries,DMart Supermarket Essentials,expense,Wallet
+60,2026-05-12,920.0,Food,Dominos Pizza Lunch,expense,Wallet
+61,2026-05-15,550.0,Transport,Ola Cab Ride,expense,Wallet
+62,2026-05-18,2100.0,Shopping,Uniqlo Summer T-Shirts,expense,Wallet
+63,2026-05-22,780.0,Food,Zomato Dinner Order,expense,Wallet
+64,2026-05-25,1750.0,Transport,Petrol Refill Shell,expense,Wallet
+65,2026-05-28,3600.0,Groceries,Blinkit Veggies and Dairy,expense,Wallet
+66,2026-06-01,88000.0,Salary,Monthly Salary Credit from Tech Corp,income,Bank
+67,2026-06-02,15000.0,Salary,Transfer to Wallet for expenses,income,Wallet
+68,2026-06-03,24000.0,Housing,Apartment Rent Payment,expense,Bank
+69,2026-06-04,3800.0,Utilities,BESCOM Electricity Bill,expense,Bank
+70,2026-06-05,1199.0,Utilities,Airtel Fiber Broadband Bill,expense,Wallet
+71,2026-06-07,5600.0,Groceries,DMart Monthly Provisions,expense,Wallet
+72,2026-06-11,890.0,Food,Swiggy Dinner Delivery,expense,Wallet
+73,2026-06-14,500.0,Transport,Metro Card Recharge,expense,Wallet
+74,2026-06-18,1200.0,Entertainment,BookMyShow IMAX Movie Tickets,expense,Wallet
+75,2026-06-21,2800.0,Shopping,Flipkart Shoes and Bag,expense,Wallet
+76,2026-06-25,1800.0,Transport,Petrol Refill HPCL,expense,Wallet
+77,2026-06-28,3500.0,Groceries,Zepto Quick Essentials,expense,Wallet
